@@ -11,4 +11,5 @@ test repo for version control learning
 3. git status
 4. git log
 
-<!--  -->
+<!-- push to remote server -->
+5. git push
